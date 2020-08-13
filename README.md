@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Get in touch
 
-* Twitter  : https://twitter.com/piumsudhara
-* Linkedin : https://www.linkedin.com/in/pium-sudhara-karunasena-41554458/
-* Facebook : https://www.facebook.com/pium.sudhara
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 
--->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piumsudhara)](https://github.com/anuraghazra/github-readme-stats)
