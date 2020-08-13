@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Get in touch
 
-* Twitter : 
-*
-*
+* Twitter  : https://twitter.com/piumsudhara
+* Linkedin : https://www.linkedin.com/in/pium-sudhara-karunasena-41554458/
+* Facebook : https://www.facebook.com/pium.sudhara
+
+-->
