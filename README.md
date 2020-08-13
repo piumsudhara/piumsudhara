@@ -16,7 +16,7 @@
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats-tawny-two.vercel.app/api?username=piumsudhara&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats-tawny-two.vercel.app/api?username=piumsudhara&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-tawny-two.vercel.app/api/top-langs/?username=piumsudhara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch 
