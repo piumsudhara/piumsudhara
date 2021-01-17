@@ -2,12 +2,9 @@
 
 ##### I'm Pium Sudhara Karunasena
 
-- 🔭 I’m currently working on Codezila as a FullStack Enginner
-- 🎓 I'm graduate from NSBM affiliated with University of Plymouth
-- 🌱 I’m currently learning EVERYTHING
-
-
-
+- 🔭 Currently working on Codezila as a FullStack Enginner
+- 🎓 Graduate from University of Plymouth
+- 🌱 Currently learning EVERYTHING
 - ⚡ Fun fact: Tech Enthusiast🧑‍💻 | Traveller✈️ | Scuba Diver🤿
 
 
