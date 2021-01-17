@@ -7,7 +7,7 @@
 - 🌱 Currently learning EVERYTHING
 - ⚡ Fun fact: Tech Enthusiast🧑‍💻 | Traveller✈️ | Scuba Diver🤿
 
-
+<br>
 
 ![Anurag's github stats](https://github-readme-stats-tawny-two.vercel.app/api?username=piumsudhara&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-tawny-two.vercel.app/api/top-langs/?username=piumsudhara&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
