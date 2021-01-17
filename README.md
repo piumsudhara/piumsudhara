@@ -10,18 +10,7 @@
 
 - ⚡ Fun fact: Tech Enthusiast🧑‍💻 | Traveller✈️ | Scuba Diver🤿
 
-<br>
 
-<br/>
-<h3 align="center">
-My Tech Stacks
-</h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
-</h3>
-
-<br>
 
 ![Anurag's github stats](https://github-readme-stats-tawny-two.vercel.app/api?username=piumsudhara&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats-tawny-two.vercel.app/api/top-langs/?username=piumsudhara&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
