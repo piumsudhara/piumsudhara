@@ -2,7 +2,6 @@
 
 ##### I'm Pium Sudhara Karunasena
 
-- 🔭 Currently working on Codezila as a FullStack Enginner
 - 🎓 Graduate from University of Plymouth
 - 🌱 Currently learning EVERYTHING
 - ⚡ Fun fact: Tech Enthusiast🧑‍💻 | Traveller✈️ | Scuba Diver🤿
