@@ -2,7 +2,6 @@
   **Dedicated, adaptive, hardworking tech enthusiast seeks out new knowledge and skills...**
 
 * 💻 **Site Reliability Engineer**
-* 💻 **DevOps Enthusiast**
 * 🎓 **Graduate from University of Plymouth**
 * 👨‍💻 **Currently learning EVERYTHING**
 * 👦 **About me:** ✈️Travller, 🤿Scuba Diver, 🎮Gamer
