@@ -1,7 +1,7 @@
 # **Pium Sudhara**
   **Dedicated, adaptive, hardworking tech enthusiast seeks out new knowledge and skills...**
 
-* 💻 **Site Reliability Engineer**
+* ☁️💻 **Cloud Operations Engineer**
 * 🎓 **Graduate from University of Plymouth**
 * 👨‍💻 **Currently learning EVERYTHING**
 * 👦 **About me:** ✈️Travller, 🤿Scuba Diver, 🎮Gamer
