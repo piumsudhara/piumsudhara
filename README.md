@@ -2,8 +2,8 @@
   **Dedicated, adaptive, hardworking tech enthusiast seeks out new knowledge and skills...**
 
 * ☁️💻 **Cloud Operations Engineer**
-* 🎓 **Graduate from University of Plymouth**
-* 👨‍💻 **Currently learning EVERYTHING**
+* 🎓 **University of Plymouth**
+* 👨‍💻 **Talks about Cloud**
 * 👦 **About me:** ✈️Travller, 🤿Scuba Diver, 🎮Gamer
 
 ## Skills
