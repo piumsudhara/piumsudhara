@@ -1,7 +1,7 @@
 # **Pium Sudhara**
   **Dedicated, adaptive, hardworking tech enthusiast seeks out new knowledge and skills...**
 
-* ☁️💻 **Cloud Operations Engineer**
+* ☁️💻 **Senior DevOps Engineer**
 * 🎓 **University of Plymouth**
 * 👨‍💻 **Talks about Cloud**
 * 👦 **About me:** ✈️Travller, 🤿Scuba Diver, 🎮Gamer
