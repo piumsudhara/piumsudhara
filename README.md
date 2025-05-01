@@ -4,7 +4,7 @@
 * ☁️💻 **Senior DevOps Engineer**
 * 🎓 **University of Plymouth**
 * 👨‍💻 **Talks about Cloud**
-* 👦 **About me:** ✈️Travller, 🤿Scuba Diver, 🎮Gamer
+* 👦 **About me:** ✈️Traveler, 🤿Scuba Diver, 🎮Gamer
 
 ## Skills
 <span>
